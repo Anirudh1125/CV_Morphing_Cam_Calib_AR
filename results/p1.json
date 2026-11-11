@@ -1,0 +1,15 @@
+{
+  "alpha": 600,
+  "gaps": [
+    {
+      "angle": 0,
+      "rounding_gaps": 293456,
+      "outside_source": 0
+    },
+    {
+      "angle": 35,
+      "rounding_gaps": 298147,
+      "outside_source": 0
+    }
+  ]
+}

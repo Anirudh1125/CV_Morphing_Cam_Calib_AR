@@ -1,0 +1,18 @@
+newmtl material1
+Kd 1.0 0.0 0.0
+illum 1
+newmtl material2
+Kd 0.0 1.0 0.0
+illum 1
+newmtl material3
+Kd 0.0 0.0 1.0
+illum 1
+newmtl material4
+Kd 0.0 1.0 1.0
+illum 1
+newmtl material5
+Kd 1.0 0.0 1.0
+illum 1
+newmtl material6
+Kd 1.0 1.0 0.0
+illum 1

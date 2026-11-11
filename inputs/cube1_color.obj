@@ -1,0 +1,32 @@
+# Simple Wavefront OBJ file for a cube
+# http://en.wikipedia.org/wiki/Wavefront_.obj_file
+#
+#    8 - 7
+#   /   /
+#  5 - 6
+#    4 - 3
+#   /   /
+#  1 - 2
+# Face order: bottom, top, front, right, back, left.
+# Face color: R,      G,   B,     C,     M,    Y.
+mtllib cube1_color.mtl
+v 0.0 0.0 0.0
+v 3.0 0.0 0.0
+v 3.0 2.0 0.0
+v 0.0 2.0 0.0
+v 0.0 0.0 1.0
+v 3.0 0.0 1.0
+v 3.0 2.0 1.0
+v 0.0 2.0 1.0
+usemtl material1
+f 1 2 3 4
+usemtl material2
+f 5 6 7 8
+usemtl material3
+f 1 2 6 5 
+usemtl material4
+f 2 3 7 6
+usemtl material5
+f 4 3 7 8
+usemtl material6
+f 1 4 8 5
